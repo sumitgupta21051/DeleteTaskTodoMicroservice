@@ -8,7 +8,7 @@ on:
 
 env:
   IMAGE_NAME: deletetasktodo
-  IMAGE_TAG: v1
+  IMAGE_TAG: v2
   ACR_NAME: acrsumit22
   ACR_LOGIN_SERVER: acrsumit22.azurecr.io
 
