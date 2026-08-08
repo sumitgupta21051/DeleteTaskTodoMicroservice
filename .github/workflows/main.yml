@@ -6,7 +6,6 @@ on:
     branches:
       - main
 
-
 env:
   IMAGE_NAME: deletetasktodo
   IMAGE_TAG: v1
